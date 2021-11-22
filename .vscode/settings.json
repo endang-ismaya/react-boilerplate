@@ -3,5 +3,8 @@
   "editor.tabSize": 2,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
-  }
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": { "*.js": "javascriptreact" }
 }
